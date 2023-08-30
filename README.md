@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/SinarPandora?logo=github&style=for-
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=scala,java,idea,vue,postgres,ts,angular,jenkins,elixir,nestjs,prisma&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scala,java,cs,idea,vue,postgres,ts,angular,jenkins,elixir,nestjs,prisma&theme=dark&perline=6)](https://skillicons.dev)
 
 
 ### Socials
