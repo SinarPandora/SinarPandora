@@ -9,7 +9,7 @@ My native language is (Awesome) -> Scala <-(Magic), which has taught me a lot be
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [Here is my profile](http://sinarpandora.github.io/)
 * ✉️  You can contact me at [SinarPandora@outlook.com](mailto:SinarPandora@outlook.com)
-* 🚀  I'm currently working on [Jam](http://github.com/SinarPandora/Jam)
+* 🚀  I'm currently working on [Jellyfish Kook Bot](https://github.com/SinarPandora/Jellyfish)
 * 🧠  I'm learning React Eco and Rust
 
 <a href="https://www.github.com/SinarPandora" target="_blank" rel="noreferrer"><img
