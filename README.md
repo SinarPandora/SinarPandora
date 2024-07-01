@@ -1,19 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sinar🐱
+Hi ![wave emoji](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sinar🐱
 ==================================================================================================================================
 
-Fullstack Noob
+Make it all better.
 --------------
 
 My native language is (Awesome) -> Scala <-(Magic), which has taught me a lot beyond code and got me interested in programming and programming languages.
 
-* 🌍  I'm based in China
-* 🖥️  See my portfolio at [Here is my profile](http://sinarpandora.github.io/)
-* ✉️  You can contact me at [SinarPandora@outlook.com](mailto:SinarPandora@outlook.com)
-* 🚀  I'm currently working on [Jellyfish Kook Bot](https://github.com/SinarPandora/Jellyfish)
-* 🧠  I'm learning React Eco and Rust
+* 🌍 I'm based in China
+* 🖥️ See my portfolio at [Here is my profile](http://sinarpandora.github.io/)
+* ✉️ You can contact me at [SinarPandora@outlook.com](mailto:SinarPandora@outlook.com)
+* 🚀 I'm currently working on [Jellyfish Kook Bot](https://github.com/SinarPandora/Jellyfish)
+* 🧠 I'm learning LLM & Desktop Application Development
 
-<a href="https://www.github.com/SinarPandora" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SinarPandora?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/SinarPandora" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/SinarPandora?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
